@@ -1,0 +1,5 @@
+step 1: extract the zip file
+
+step 2: place folders into `.local/share/plank/themes`
+
+step 3: type in terminal "plank --preferences", then choose themes
